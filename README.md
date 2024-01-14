@@ -1,5 +1,5 @@
 
-# <span style="padding-left:10px; color:White">ПРИВЕТ! Я МИСТЕР КОТ 
+# <span style="padding-left:10px; color:#111111">ПРИВЕТ! Я МИСТЕР КОТ 
 
 <img  alt="Я" height="400" src="1.gif" width="400" style="outline: solid black 6px;"/>
 
@@ -29,4 +29,4 @@
 [Email](elchooponeebrey@gmail.com)
 
 [GitHub profile](https://github.com/ubiqubi)
-
+<body style="background-color:#666666">
