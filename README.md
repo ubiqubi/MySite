@@ -29,4 +29,4 @@
 [Email](elchooponeebrey@gmail.com)
 
 [GitHub profile](https://github.com/ubiqubi)
-<body style="background-color:#666666">
+<body style="background-color:#DDDDDD">
